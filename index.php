@@ -1,0 +1,133 @@
+
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta name="google-site-verification" content="VbbsXKnwIyFnUPAcQsTzAOokTeKw2CNFp5NhQb_7W04">
+		<link rel="shortcut icon" href="https://te.legra.ph/file/6172b91be5861b71d070e.png" type="image/x-icon">
+		<link rel="apple-touch-icon" href="https://te.legra.ph/file/6172b91be5861b71d070e.png">
+		<link rel="apple-touch-icon" sizes="57x57" href="https://te.legra.ph/file/6172b91be5861b71d070e.png">
+		<link rel="apple-touch-icon" sizes="72x72" href="https://te.legra.ph/file/6172b91be5861b71d070e.png"
+		<link rel="apple-touch-icon" sizes="76x76" href="https://te.legra.ph/file/6172b91be5861b71d070e.png">
+		<link rel="apple-touch-icon" sizes="114x114" href="https://te.legra.ph/file/6172b91be5861b71d070e.png">
+		<link rel="apple-touch-icon" sizes="120x120" href="https://te.legra.ph/file/6172b91be5861b71d070e.png">
+		<link rel="apple-touch-icon" sizes="144x144" href="https://te.legra.ph/file/6172b91be5861b71d070e.png">
+		<link rel="apple-touch-icon" sizes="152x152" href="https://te.legra.ph/file/6172b91be5861b71d070e.png">
+		<link rel="apple-touch-icon" sizes="180x180" href="https://te.legra.ph/file/6172b91be5861b71d070e.png">
+		<meta name="description" content="Yashraj Mod APK is a place for all in one Entertainment. Watch any content Hollywood, Bollywood Movies, Web Series, Live TV, Live Cricket, etc. just on one place Yashraj Mod App - So Download Yashraj Mod App">
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Yashraj Mod App</title>
+		<link href="https://fonts.googleapis.com/css?family=Heebo:400,700|Oxygen:700" rel="stylesheet">
+		<link rel="stylesheet" href="https://noxtv.ml/dist/css/style.css">
+		<script src="https://unpkg.com/scrollreveal@4.0.5/dist/scrollreveal.min.js"></script>
+	</head>
+
+	<body class="is-boxed has-animations">
+		<div class="body-wrap boxed-container">
+			<header class="site-header text-light">
+				<div class="container">
+					<div class="site-header-inner">
+						<div class="brand header-brand">
+						</div>
+					</div>
+				</div>
+			</header>
+			<main>
+				<section class="hero text-center text-light">
+					<div class="hero-bg"></div>
+					<div class="hero-particles-container"> <canvas id="hero-particles"></canvas> </div>
+					<div class="container-sm">
+						<div class="hero-inner">
+							<div class="hero-copy">
+								<h1 class="hero-title mt-0">Yashraj Mod | Download Latest Version 2022</h1>
+								<p class="hero-paragraph">Yashraj Mod App | Watch any content Hollywood, Bollywood Movies, Web Series, Live TV, Live Cricket, etc. just on one place Yashraj Mod App - So Download Yashraj mod App</p>
+								<div class="hero-cta"> <a class="button button-primary button-wide-mobile" href="https://app.mathabkhan.repl.co/YashrajMod_1.0.0V.apk">Download Now</a> </div>
+							</div>
+							<div class="mockup-container">
+								<div class="mockup-bg"> <img src="https://noxtv.ml/dist/images/iphone-hero-bg.svg" alt="iPhone illustration"> </div> <img class="device-mockup" src="https://te.legra.ph/file/ae3c9115ea7c1d4b9246d.png" alt="iPhone Hero"> </div>
+						</div>
+					</div>
+				</section>
+				<section class="features-extended section">
+					<div class="features-extended-inner section-inner">
+						<div class="features-extended-wrap">
+							<div class="container">
+								<div class="feature-extended">
+									<div class="feature-extended-image">
+										<div class="mockup-bg"> <img src="https://noxtv.ml/dist/images/iphone-feature-bg-01.svg" alt="iPhone Feature 01 illustration"> </div> <img class="device-mockup is-revealing" src="https://te.legra.ph/file/11987ec7a5ad503554f5a.png" alt="iPhone Feature 01"> </div>
+									<div class="feature-extended-body is-revealing">
+										<h3 class="mt-0 mb-16">Contact - IMDb</h3>
+										<p class="m-0">IMDb (an abbreviation of Internet Movie Database) is an online database of information related to films</p>
+									</div>
+								</div>
+								<div class="feature-extended">
+									<div class="feature-extended-image">
+										<div class="mockup-bg"> <img src="https://noxtv.ml/dist/images/iphone-feature-bg-02.svg" alt="iPhone Feature 02 illustration"> </div> <img class="device-mockup is-revealing" src="https://te.legra.ph/file/e6c4374f2744c6b1211a5.png" alt="iPhone Feature 02"> </div>
+									<div class="feature-extended-body is-revealing">
+										<h3 class="mt-0 mb-16">All Indian Channel</h3>
+										<p class="m-0">All indian channel inclode with all Movies channel, News Channel, Sports Channel etc</p>
+									</div>
+								</div>
+								<div class="feature-extended">
+									<div class="feature-extended-image">
+										<div class="mockup-bg"> <img src="https://noxtv.ml/dist/images/iphone-feature-bg-03.svg" alt="iPhone Feature 03 illustration"> </div> <img class="device-mockup is-revealing" src="https://te.legra.ph/file/66876ced6763f6c3fc264.png" alt="iPhone Feature 03"> </div>
+									<div class="feature-extended-body is-revealing">
+										<h3 class="mt-0 mb-16">Movies And web series</h3>
+										<p class="m-0">Netflix, Prime Video, zee5, Sony liv, Hotstar, Voot, Youtube is a streaming service that allows our members to watch TV shows and movies on an internet-connected</p>
+									</div>
+								</div>
+								<div class="feature-extended">
+									<div class="feature-extended-image">
+										<div class="mockup-bg"> <img src="https://noxtv.ml/dist/images/iphone-feature-bg-04.svg" alt="iPhone Feature 04 illustration"> </div> <img class="device-mockup is-revealing" src="https://te.legra.ph/file/c9b783e87babec029986e.png" alt="iPhone Feature 04"> </div>
+									<div class="feature-extended-body is-revealing">
+										<h3 class="mt-0 mb-16">Login Page Add</h3>
+										<p class="m-0">login Your Email id Use Coupon Code or Buy Subsciption and Movies Download This page</p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</section>
+			</main>
+			<footer class="site-footer">
+				<div class="footer-particles-container"> <canvas id="footer-particles"></canvas> </div>
+				<div class="site-footer-top">
+					<section class="cta section text-light">
+						<div class="container-sm">
+							<div class="cta-inner section-inner">
+								<div class="cta-header text-center">
+									<h2 class="section-title mt-0">[Official] — Yashraj Mod APK (v2.4) Download Latest Version 2022</h2>
+									<p class="section-paragraph">Yashraj Mod APK is a place for all in one Entertainment. Watch any content Hollywood, Bollywood Movies, Web Series, Live TV, Live Cricket, etc. just on one place Yashraj Mod App - So Download Yashraj Mod App</p>
+									<div class="cta-cta"> <a class="button button-primary button-wide-mobile" href="https://app.mathabkhan.repl.co/YashrajMod_1.0.0V.apk">Download Now</a> </div>
+								</div>
+							</div>
+						</div>
+					</section>
+				</div>
+				<div class="site-footer-bottom">
+					<div class="container">
+						<div class="site-footer-inner">
+							<div class="brand footer-brand"> <a href="#"> <img src="https://noxtv.ml/dist/images/logo.svg" alt="Venus logo"> </a> </div>
+							<ul class="footer-links list-reset">
+								<li> <a href="#">Contact</a> </li>
+								<li> <a href="#">About us</a> </li>
+								<li> <a href="#">FAQ's</a> </li>
+								<li> <a href="#">Support</a> </li>
+							</ul>
+							<ul class="footer-social-links list-reset">
+								<li> <a href="#"> <span class="screen-reader-text">Facebook</span> <svg width="16" height="16" xmlns="http://www.w3.org/2000/svg"> <path d="M6.023 16L6 9H3V6h3V4c0-2.7 1.672-4 4.08-4 1.153 0 2.144.086 2.433.124v2.821h-1.67c-1.31 0-1.563.623-1.563 1.536V6H13l-1 3H9.28v7H6.023z" fill="#FFF"></path> </svg> </a> </li>
+								<li> <a href="#"> <span class="screen-reader-text">Twitter</span> <svg width="16" height="16" xmlns="http://www.w3.org/2000/svg"> <path d="M16 3c-.6.3-1.2.4-1.9.5.7-.4 1.2-1 1.4-1.8-.6.4-1.3.6-2.1.8-.6-.6-1.5-1-2.4-1-1.7 0-3.2 1.5-3.2 3.3 0 .3 0 .5.1.7-2.7-.1-5.2-1.4-6.8-3.4-.3.5-.4 1-.4 1.7 0 1.1.6 2.1 1.5 2.7-.5 0-1-.2-1.5-.4C.7 7.7 1.8 9 3.3 9.3c-.3.1-.6.1-.9.1-.2 0-.4 0-.6-.1.4 1.3 1.6 2.3 3.1 2.3-1.1.9-2.5 1.4-4.1 1.4H0c1.5.9 3.2 1.5 5 1.5 6 0 9.3-5 9.3-9.3v-.4C15 4.3 15.6 3.7 16 3z" fill="#FFF"></path> </svg> </a> </li>
+								<li> <a href="#"> <span class="screen-reader-text">Google</span> <svg width="16" height="16" xmlns="http://www.w3.org/2000/svg"> <path d="M7.9 7v2.4H12c-.2 1-1.2 3-4 3-2.4 0-4.3-2-4.3-4.4 0-2.4 2-4.4 4.3-4.4 1.4 0 2.3.6 2.8 1.1l1.9-1.8C11.5 1.7 9.9 1 8 1 4.1 1 1 4.1 1 8s3.1 7 7 7c4 0 6.7-2.8 6.7-6.8 0-.5 0-.8-.1-1.2H7.9z" fill="#FFF"></path> </svg> </a> </li>
+							</ul>
+							<div class="footer-copyright">© 2022 Yashraj Mod, all rights reserved</div>
+						</div>
+					</div>
+				</div>
+			</footer>
+		</div>
+		<script src="https://noxtv.ml/dist/js/main.min.js"></script>
+	</body>
+
+</html>
